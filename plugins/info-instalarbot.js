@@ -3,16 +3,14 @@ let handler  = async (m, { conn }) => {
 let texto = `
 *—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*
 > Tutorial: https://youtu.be/eC9TfKICpcY
-> Pagina Oficial: https://boxmineworld.com
-> Dashboard: https://dash.boxmineworld.com/home
-> Panel: https://panel.boxmineworld.com
+> Pagina Oficial: https://dash.boxmineworld.com/register?ref=nNBtc0nu
 > Soporte: https://discord.gg/84qsr4v 
 
 ------------------------------------
 
 *—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙰𝙲𝙸𝙳𝙸𝙲𝙽𝙾𝙳𝙴𝚂 𝙷𝙾𝚂𝚃*
 > Tutorial: https://youtu.be/nbjvreJ0tUk
-> Pagina: https://billing.acidicnodes.ml/register?ref=ADII104p
+> Pagina: https://billing.acidicnodes.ml/register?ref=SN6zXQiy
 > Soporte: https://whatsapp.acidicnodes.com
 
 ------------------------------------
